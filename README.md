@@ -66,4 +66,3 @@ The list of parts of speech with the same length of the sentence is randomly ass
 ## Challenges faced:
 1.We faced challenges formulating the expressions for calculating the probabilities for gibbs sampling
 2.We faced difficulty with increasing the accuracy and tried changing the number of samples for MCMC and and also changing the random pos tags assigned to the words.
-
